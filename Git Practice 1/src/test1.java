@@ -5,6 +5,7 @@ public class test1 {
 
 		
 		 System.out.println("line 1");
+		 System.out.println("line2");
 	}
 
 }
